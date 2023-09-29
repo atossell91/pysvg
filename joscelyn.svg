@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg">
+    <rect width="160" height="160" x="0" y="0" fill="none" stroke="black"/>
+    <rect width="160" height="160" x="0" y="160" fill="none" stroke="black"/>
+    <rect width="160" height="160" x="0" y="320" fill="none" stroke="black"/>
+    <rect width="160" height="160" x="0" y="480" fill="none" stroke="black"/>
+    <rect width="160" height="160" x="0" y="640" fill="none" stroke="black"/>
+    <rect width="160" height="160" x="240" y="0" fill="none" stroke="black"/>
+    <rect width="160" height="160" x="240" y="160" fill="none" stroke="black"/>
+    <rect width="160" height="160" x="240" y="320" fill="none" stroke="black"/>
+    <rect width="160" height="160" x="240" y="480" fill="none" stroke="black"/>
+    <rect width="160" height="160" x="240" y="640" fill="none" stroke="black"/>
+    <rect width="160" height="160" x="480" y="0" fill="none" stroke="black"/>
+    <rect width="160" height="160" x="480" y="160" fill="none" stroke="black"/>
+    <rect width="160" height="160" x="480" y="320" fill="none" stroke="black"/>
+    <rect width="160" height="160" x="480" y="480" fill="none" stroke="black"/>
+    <rect width="160" height="160" x="480" y="640" fill="none" stroke="black"/>
+    <rect width="160" height="160" x="720" y="0" fill="none" stroke="black"/>
+    <rect width="160" height="160" x="720" y="160" fill="none" stroke="black"/>
+    <rect width="160" height="160" x="720" y="320" fill="none" stroke="black"/>
+    <rect width="160" height="160" x="720" y="480" fill="none" stroke="black"/>
+    <rect width="160" height="160" x="720" y="640" fill="none" stroke="black"/>
+    <path d="M100 850 A -50 -50, 0, 0, 0, 50 800" fill="none" stroke="black"/>
+</svg>
